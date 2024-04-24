@@ -1,2 +1,2 @@
 # fem-eci-terraform-aws-cluster
-Automation for GitHub
+Example organization AWS ECS cluster automation from Enterprise Cloud Infrastructure on Frontend Masters.
